@@ -28,7 +28,7 @@
     <dependency>
       <groupId>com.zkobd</groupId>
       <artifactId>diagso</artifactId>
-      <version>1.018</version>
+      <version>1.019</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
